@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Soil
   - Plant
+  - Computer
   layers:
   - Default
   - TransparentFX
