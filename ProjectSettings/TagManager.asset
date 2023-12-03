@@ -8,6 +8,8 @@ TagManager:
   - Plant
   - Computer
   - Lake
+  - Weed
+  - Grass
   layers:
   - Default
   - TransparentFX
