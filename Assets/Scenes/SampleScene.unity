@@ -18078,6 +18078,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: grass (46)
       objectReference: {fileID: 0}
+    - target: {fileID: 8632772428592471373, guid: 5d6118cc1291e424c8404879484a0c9d, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8632772428592471374, guid: 5d6118cc1291e424c8404879484a0c9d, type: 3}
       propertyPath: m_RootOrder
       value: 46
