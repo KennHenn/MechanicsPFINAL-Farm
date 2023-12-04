@@ -10,6 +10,7 @@ TagManager:
   - Lake
   - Weed
   - Grass
+  - Bug
   layers:
   - Default
   - TransparentFX
